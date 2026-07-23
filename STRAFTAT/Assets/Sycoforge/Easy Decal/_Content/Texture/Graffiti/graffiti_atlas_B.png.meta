@@ -1,0 +1,1229 @@
+fileFormatVersion: 2
+guid: c858d586a158eba4692184fd23daf7a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: graffiti_atlas_B_0
+  - first:
+      213: 21300002
+    second: graffiti_atlas_B_1
+  - first:
+      213: 21300004
+    second: graffiti_atlas_B_6
+  - first:
+      213: 21300006
+    second: graffiti_atlas_B_9
+  - first:
+      213: 21300008
+    second: graffiti_atlas_B_10
+  - first:
+      213: 21300010
+    second: graffiti_atlas_B_13
+  - first:
+      213: 21300012
+    second: graffiti_atlas_B_14
+  - first:
+      213: 21300014
+    second: graffiti_atlas_B_15
+  - first:
+      213: 21300016
+    second: graffiti_atlas_B_18
+  - first:
+      213: 21300018
+    second: graffiti_atlas_B_19
+  - first:
+      213: 21300020
+    second: graffiti_atlas_B_24
+  - first:
+      213: 21300022
+    second: graffiti_atlas_B_25
+  - first:
+      213: 21300024
+    second: graffiti_atlas_B_26
+  - first:
+      213: 21300026
+    second: graffiti_atlas_B_27
+  - first:
+      213: 21300028
+    second: graffiti_atlas_B_28
+  - first:
+      213: 21300030
+    second: graffiti_atlas_B_29
+  - first:
+      213: 21300032
+    second: graffiti_atlas_B_30
+  - first:
+      213: 21300034
+    second: graffiti_atlas_B_32
+  - first:
+      213: 21300036
+    second: graffiti_atlas_B_37
+  - first:
+      213: 21300038
+    second: graffiti_atlas_B_38
+  - first:
+      213: 21300040
+    second: graffiti_atlas_B_39
+  - first:
+      213: 21300042
+    second: graffiti_atlas_B_41
+  - first:
+      213: 21300044
+    second: graffiti_atlas_B_42
+  - first:
+      213: 21300046
+    second: graffiti_atlas_B_44
+  - first:
+      213: 21300048
+    second: graffiti_atlas_B_48
+  - first:
+      213: 21300050
+    second: graffiti_atlas_B_49
+  - first:
+      213: 21300052
+    second: graffiti_atlas_B_51
+  - first:
+      213: 21300054
+    second: graffiti_atlas_B_52
+  - first:
+      213: 21300056
+    second: graffiti_atlas_B_54
+  - first:
+      213: 21300058
+    second: graffiti_atlas_B_56
+  - first:
+      213: 21300060
+    second: graffiti_atlas_B_62
+  - first:
+      213: 21300062
+    second: graffiti_atlas_B_69
+  - first:
+      213: 21300064
+    second: graffiti_atlas_B_71
+  - first:
+      213: 21300066
+    second: graffiti_atlas_B_73
+  - first:
+      213: 21300068
+    second: graffiti_atlas_B_74
+  - first:
+      213: 21300070
+    second: graffiti_atlas_B_77
+  - first:
+      213: 21300072
+    second: graffiti_atlas_B_78
+  - first:
+      213: 21300074
+    second: graffiti_atlas_B_79
+  - first:
+      213: 21300076
+    second: graffiti_atlas_B_80
+  - first:
+      213: 21300078
+    second: graffiti_atlas_B_83
+  - first:
+      213: 21300080
+    second: graffiti_atlas_B_2
+  - first:
+      213: 21300082
+    second: graffiti_atlas_B_4
+  - first:
+      213: 21300084
+    second: graffiti_atlas_B_3
+  - first:
+      213: 21300086
+    second: graffiti_atlas_B_5
+  - first:
+      213: 21300088
+    second: graffiti_atlas_B_7
+  - first:
+      213: 21300090
+    second: graffiti_atlas_B_8
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: graffiti_atlas_B_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3350
+        width: 1991
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_1
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3699
+        width: 434
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_6
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 3608
+        width: 1426
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_9
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3163
+        width: 480
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_10
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3155
+        width: 557
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 3152
+        width: 386
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_14
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 3148
+        width: 456
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_15
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 2991
+        width: 386
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_18
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 2487
+        width: 844
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3158
+        width: 498
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2411
+        width: 1991
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_26
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2416
+        width: 721
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_27
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 2464
+        width: 330
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1856
+        width: 800
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_29
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1879
+        width: 759
+        height: 537
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_30
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1915
+        width: 1106
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_32
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2073
+        width: 935
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_37
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 1680
+        width: 488
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_38
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1675
+        width: 612
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_39
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 1809
+        width: 565
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_41
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 1838
+        width: 358
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1140
+        width: 1098
+        height: 705
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_44
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1312
+        width: 490
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_48
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1299
+        width: 1492
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_49
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 1299
+        width: 302
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_51
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1424
+        width: 464
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_52
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 778
+        width: 1780
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_54
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 1242
+        width: 337
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_56
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 969
+        width: 521
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_62
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 977
+        width: 359
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 1169
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_73
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 823
+        width: 508
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_74
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 825
+        width: 348
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_77
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 1266
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_78
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 370
+        width: 1194
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_79
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 200
+        width: 1276
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_80
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 68
+        width: 1353
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_83
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 13
+        width: 1130
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_2
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1665
+        width: 517
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_4
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2226
+        width: 249
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_3
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2031
+        width: 195
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_5
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 3164
+        width: 200
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_7
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 3402
+        width: 569
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: graffiti_atlas_B_8
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 1645
+        width: 443
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      graffiti_atlas_B_38: 21300038
+      graffiti_atlas_B_79: 21300074
+      graffiti_atlas_B_8: 21300090
+      graffiti_atlas_B_4: 21300082
+      graffiti_atlas_B_54: 21300056
+      graffiti_atlas_B_83: 21300078
+      graffiti_atlas_B_9: 21300006
+      graffiti_atlas_B_56: 21300058
+      graffiti_atlas_B_74: 21300068
+      graffiti_atlas_B_78: 21300072
+      graffiti_atlas_B_19: 21300018
+      graffiti_atlas_B_49: 21300050
+      graffiti_atlas_B_13: 21300010
+      graffiti_atlas_B_3: 21300084
+      graffiti_atlas_B_0: 21300000
+      graffiti_atlas_B_48: 21300048
+      graffiti_atlas_B_52: 21300054
+      graffiti_atlas_B_71: 21300064
+      graffiti_atlas_B_6: 21300004
+      graffiti_atlas_B_5: 21300086
+      graffiti_atlas_B_25: 21300022
+      graffiti_atlas_B_28: 21300028
+      graffiti_atlas_B_77: 21300070
+      graffiti_atlas_B_51: 21300052
+      graffiti_atlas_B_37: 21300036
+      graffiti_atlas_B_42: 21300044
+      graffiti_atlas_B_18: 21300016
+      graffiti_atlas_B_32: 21300034
+      graffiti_atlas_B_41: 21300042
+      graffiti_atlas_B_2: 21300080
+      graffiti_atlas_B_62: 21300060
+      graffiti_atlas_B_14: 21300012
+      graffiti_atlas_B_29: 21300030
+      graffiti_atlas_B_26: 21300024
+      graffiti_atlas_B_44: 21300046
+      graffiti_atlas_B_15: 21300014
+      graffiti_atlas_B_27: 21300026
+      graffiti_atlas_B_7: 21300088
+      graffiti_atlas_B_30: 21300032
+      graffiti_atlas_B_73: 21300066
+      graffiti_atlas_B_39: 21300040
+      graffiti_atlas_B_1: 21300002
+      graffiti_atlas_B_80: 21300076
+      graffiti_atlas_B_10: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
