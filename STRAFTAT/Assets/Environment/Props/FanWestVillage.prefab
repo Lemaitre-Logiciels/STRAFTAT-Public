@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8030066941422561123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8030066941422561124}
+  m_Layer: 0
+  m_Name: FanWestVillage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8030066941422561124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8030066941422561123}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.872, y: 19.48, z: -15.635}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7564426881335109079}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &8030066942693360188
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 8030066941422561124}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 4.124984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4.124984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 4.124984
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 76b46b37ac3d6ee429d0b9d51daeee9a, type: 2}
+    - target: {fileID: 919132149155446097, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_Name
+      value: SM_WestVillage_Ventilo
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+      propertyPath: m_TagString
+      value: Footsteps/Metal/Pipe
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+--- !u!1 &7183785145258049389 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+  m_PrefabInstance: {fileID: 8030066942693360188}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &8030066942693360176
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7183785145258049389}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7203852171003593649, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+--- !u!95 &8030066942693360191
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7183785145258049389}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a78a16c01b5713347b41aefb92fd76a8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!4 &7564426881335109079 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f414ca7bb70d71248b972655796ff01a, type: 3}
+  m_PrefabInstance: {fileID: 8030066942693360188}
+  m_PrefabAsset: {fileID: 0}
