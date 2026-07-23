@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fb330c4aa1e822345a6639b460f01d04
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _SuppressionMask: {fileID: 2800000, guid: 03a9aedafaeaa364fb58b3a7309cdc11, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

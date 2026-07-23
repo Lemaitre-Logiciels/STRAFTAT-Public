@@ -1,0 +1,5 @@
+Add music files here and use the format "TrackNumber - TrackName - ArtistName.Extension" for the name.
+
+Track number only needs to be unique if you want the state of the music player to save correctly, if not you can just use any number (also does not need to be sequential since the playlist is always shuffled (but this may change))
+
+Supports .mp3, .ogg, .wav, .aiff, and .aif
