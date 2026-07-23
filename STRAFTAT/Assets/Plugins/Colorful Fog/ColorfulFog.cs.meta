@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9726e0363dbfcee448bf6afdfabc2c49
+labels:
+- JohanGrahn
+- Johan
+- Grahn
+- ColorfulFog
+- Fog
+- Fogeffect
+- FullscreenEffect
+- ImageEffect
+- AtmosphereEffect
+timeCreated: 1441552651
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fogCube: {instanceID: 0}
+  - gradientTexture: {instanceID: 0}
+  - fogShader: {fileID: 4800000, guid: 015be87a74b51be408561cfd6a9458c9, type: 3}
+  - customDepthShader: {fileID: 4800000, guid: bcd5a350010314b40a84d68bf0cb25d6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

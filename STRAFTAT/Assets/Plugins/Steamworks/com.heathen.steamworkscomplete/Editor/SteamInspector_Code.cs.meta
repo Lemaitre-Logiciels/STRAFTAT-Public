@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 63abc8e9529b2794b8a35e42b71857a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - icon: {fileID: 2800000, guid: 940d861983ae7c04d99159358b9b289c, type: 3}
+  - headerTree: {fileID: 9197481963319205126, guid: c86aad4139d569e4d96ff60f2200f4ba,
+      type: 3}
+  - dlcEntry: {fileID: 9197481963319205126, guid: c917b622e6fdba44bba2197c7205df2c,
+      type: 3}
+  - statEntry: {fileID: 9197481963319205126, guid: 242b332ef3b6dfe48b2c2761b7b6ad5c,
+      type: 3}
+  - achievementEntry: {fileID: 9197481963319205126, guid: 75779d647c760eb48892fa4c616101c7,
+      type: 3}
+  - leaderboardEntry: {fileID: 9197481963319205126, guid: 1880e70492e11d7489d99def48b9d166,
+      type: 3}
+  - inventoryItemEntry: {fileID: 9197481963319205126, guid: 32fbc12c182cf8241a18f10a22f63dcb,
+      type: 3}
+  - styleSheet: {fileID: 7433441132597879392, guid: 4f0128c0f453a244bb8fba2d174b979e,
+      type: 3}
+  - avatarPlaceholderImage: {fileID: 10309, guid: 0000000000000000f000000000000000,
+      type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

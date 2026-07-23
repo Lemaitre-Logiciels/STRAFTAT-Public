@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: fdb43fff075aa0b4b995dcfaed06dc44
+labels:
+- volumetric
+- light
+- lighting
+- ray
+- shaft
+- beam
+- density
+- vr
+- dynamic
+- spot
+- spotlight
+- fog
+- noise
+- occlusion
+- procedural
+timeCreated: 1577531941
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: f4140fedf3f72d7448a4e55ea9db44ab, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

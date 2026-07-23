@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 82f49053b9b703e4cbb1c6e76a563270
+labels:
+- Animation
+- Camera
+- Curve
+- Movement
+- Smooth
+- Spline
+- Tcb
+- Bezier
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: -101
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
