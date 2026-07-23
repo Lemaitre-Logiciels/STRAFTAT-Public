@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4754143038460391844
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -19.895748
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.15991783
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_ReflectionProbeUsage
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9d1c4561c30505340a0d991d14506ee4, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7aef81b0e7be3794db8b341bc03cd6b2, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c857b337999ce04b94e0a73e7606ea9, type: 2}
+    - target: {fileID: 919132149155446097, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+      propertyPath: m_Name
+      value: SM_LevelTest03_Block00
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+--- !u!1 &5565167342123404533 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
+  m_PrefabInstance: {fileID: 4754143038460391844}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &414192862
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5565167342123404533}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5583776388734914031, guid: 746ceb8d9fe271f4a877088fcbda698e, type: 3}
