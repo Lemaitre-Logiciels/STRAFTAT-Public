@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Minigun_Barrel_00
+  m_Shader: {fileID: 4800000, guid: 3703b349acd7ba04eb2cc7f5fbb27968, type: 3}
+  m_ValidKeywords:
+  - _USEMETALLIC_ON
+  - _USENORMAL_ON
+  - _USESMOOTHNESS_ON
+  m_InvalidKeywords:
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BC:
+        m_Texture: {fileID: 2800000, guid: 5b732233092df1743baa3557b51b57c6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MS:
+        m_Texture: {fileID: 2800000, guid: 415b45ea33947a04fb67bf5fc9843527, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 0685d147b26c01e48b39e1e744ac673c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Metallic: 0
+    - _OutlineWidth: 0
+    - _Smoothness: 0
+    - _UseMetallic: 1
+    - _UseNormal: 1
+    - _UseOutline: 0
+    - _UseSmoothness: 1
+    - __dirty: 0
+    m_Colors:
+    - _Color_Outline: {r: 1, g: 0.8196079, b: 0.42745098, a: 0}
+  m_BuildTextureStacks: []

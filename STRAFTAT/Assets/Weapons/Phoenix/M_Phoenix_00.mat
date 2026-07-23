@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Phoenix_00
+  m_Shader: {fileID: 4800000, guid: 3703b349acd7ba04eb2cc7f5fbb27968, type: 3}
+  m_ValidKeywords:
+  - _USEMETALLIC_ON
+  - _USENORMAL_ON
+  - _USESMOOTHNESS_ON
+  m_InvalidKeywords:
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BC:
+        m_Texture: {fileID: 2800000, guid: a300cd4810ba9904baee9980a9d3fc38, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MS:
+        m_Texture: {fileID: 2800000, guid: 20586231d60520d4f8c49df4fe28323f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 47e838d9bb5c44a4ea50299c603d349e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AO_Power: 0
+    - _Metallic: 0.62
+    - _OutlineWidth: 0
+    - _Smoothness: 0
+    - _UseAO: 0
+    - _UseMetallic: 1
+    - _UseNormal: 1
+    - _UseOutline: 0
+    - _UseSmoothness: 1
+    - _UseTint: 0
+    - __dirty: 0
+    m_Colors:
+    - _Color_Outline: {r: 1, g: 0.8196079, b: 0.42745098, a: 0}
+    - _Tint: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
