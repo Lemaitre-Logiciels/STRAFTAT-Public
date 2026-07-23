@@ -1,0 +1,47 @@
+# MTL for Dragonfly_01.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3925
+
+newmtl BLOOD1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\BLOOD1.png
+
+newmtl FLOOR0_1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\FLOOR0_1.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\METAL.png
+
+newmtl STONE
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\STONE.png
+
+newmtl STONE2
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\STONE2.png
+
+newmtl BLOOD1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\BLOOD1_FLAT.png
+
+newmtl FLAT3
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\FLAT3.png
+
+newmtl FLOOR0_1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\FLOOR0_1_FLAT.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\METAL_FLAT.png
+
+newmtl STONE
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\STONE_FLAT.png
+
+newmtl STONE2
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_01\STONE2_FLAT.png
+

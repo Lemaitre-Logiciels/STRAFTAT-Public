@@ -1,0 +1,51 @@
+# MTL for Dragonfly_03_Hmm.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3925
+
+newmtl BIGBRIK2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\BIGBRIK2.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\METAL.png
+
+newmtl STARTAN2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\STARTAN2.png
+
+newmtl STEP2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\STEP2.png
+
+newmtl BIGBRIK2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\BIGBRIK2_FLAT.png
+
+newmtl CEIL3_5
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\CEIL3_5.png
+
+newmtl CEIL5_2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\CEIL5_2.png
+
+newmtl F_SKY1
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\F_SKY1.png
+
+newmtl FLOOR0_1
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\FLOOR0_1.png
+
+newmtl FLOOR5_3
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\FLOOR5_3.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\METAL_FLAT.png
+
+newmtl STARTAN2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_03\STARTAN2_FLAT.png
+

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PauseManager
+  - Fire
+  - HealthDisplay
+  - SoundManager
+  - AmmoDisplay
+  - Footsteps/Dirt
+  - Spawnpoints
+  - ClientInstance
+  - Crosshair
+  - PlayerTracker
+  - FxTemporaire
+  - LoadingScreen
+  - vfx
+  - Grip
+  - Headshot
+  - VisualInfo
+  - Teleport
+  - Killz
+  - Footsteps/Sand
+  - Footsteps/Grass
+  - Footsteps/Metal/Grille
+  - Footsteps/Metal/Pipe
+  - Footsteps/Water
+  - Footsteps/Concrete/Dalles
+  - Footsteps/Concrete/Default
+  - Footsteps/Concrete/Solide
+  - Footsteps/Graviers
+  - Footsteps/Matelas
+  - Footsteps/Moquette
+  - Footsteps/Wood/Creux
+  - Footsteps/Wood/Sec
+  - Footsteps/Wood
+  - Ladder/Metal
+  - Ladder/Chain
+  - Footsteps/Metal/Pipe2
+  - Footsteps/Concrete/PleinAir
+  - Footsteps/Ice
+  - Mine
+  - Grenade
+  - NoSound
+  - MovingObject
+  - ShatterableGlass
+  - DetachableObject
+  - Hat
+  - Claymore
+  - DontThrow
+  - Door/Indoor
+  - Door/Outdoor
+  - Pig
+  - Spawnpoints4Player
+  - PlayerGraphics
+  - Footsteps/SuperIce
+  - DamageZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Self
+  - Interactable
+  - HeldWeapon
+  - OtherHeldWeapon
+  - Ladder
+  - Body
+  - Members
+  - PostProcess
+  - ShootThrough
+  - NewGun
+  - SelfBody
+  - HeadSup
+  - DontCollideWithPlayer
+  - InteractEnvironment
+  - Grenade
+  - Melee
+  - WeaponCam
+  - Ragdoll
+  - Glass
+  - HUD
+  - PauseMenuHUD
+  - InvisibleWall
+  - LobbiesList
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

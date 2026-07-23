@@ -1,0 +1,1134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 6d17570f0f8a5c147826d453cb3401d1
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene/VictoryScene.unity
+    guid: 42c5e2fbeca8e45308cfc706b10151e6
+  - enabled: 1
+    path: Assets/Scenes/EmptyScene.unity
+    guid: 64da1c1284d01954a805128f8c4c7ab3
+  - enabled: 1
+    path: Assets/Scenes/TrainingRange/TrainingRange_00.unity
+    guid: 86d891a961e5b5449abe6f63536d0c99
+  - enabled: 1
+    path: Assets/Scenes/TrainingRange/TutorialScene.unity
+    guid: 06441a7e3e1cc3748b809e0859def9da
+  - enabled: 1
+    path: Assets/Scenes/Babbdi/Babbdi.unity
+    guid: 3a8202d89b52f51438bab7d11bb90aa1
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_00.unity
+    guid: 186f74fa158c57448a541d0d283678e1
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_01.unity
+    guid: 3711bb6104d2298489147dce034e2dda
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_02.unity
+    guid: 4770aca63d199314cb7fc676acb41769
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_03.unity
+    guid: a024f4df491a9c94fa97cab3e4e3ab93
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_04.unity
+    guid: 1669120e5404a274796008857f11fd4f
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_05.unity
+    guid: 58b606621499d4a489e4433c0d9fa938
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_06.unity
+    guid: 5a2fc74ce1ee02247babde39a6be16f7
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_07.unity
+    guid: 9427eac35eb65054f94ef73ffb4df49f
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_08.unity
+    guid: 403ebfd77a7ec49418dadedc32cdc208
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_09.unity
+    guid: cd316d9203ba2ad488925afd3328d327
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_10.unity
+    guid: bb40ca0172478554280274ae58d29893
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_11.unity
+    guid: 3a4475296a1753242b105e0c3c663f4d
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_12.unity
+    guid: b34105079e28206408552b59efc25e1d
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_13.unity
+    guid: 8fb4eecf4f4ac554b803ec530019a1d1
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_14.unity
+    guid: 31172e02d5c3e2847b65d50475f7dace
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_16.unity
+    guid: 054d536d795d5f447956d7c256f4f4ba
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_20.unity
+    guid: c1c73263f3ff96d40a2299328aef2bc2
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_21.unity
+    guid: 4871a4e27e0160546bb496cb4cd29f9c
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_22.unity
+    guid: aa51e91eb7bf598459e96408a19d54ea
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_23.unity
+    guid: 12a09e1dd1fa67b43beb95a5c84c8584
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_24.unity
+    guid: 09b42d4d71000fd4f938776954573d89
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_25.unity
+    guid: c51791bbbb6fff248967d0c8ce9ff5dd
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_26.unity
+    guid: 27cb6ed6988a4b24194d2f357b58a7e9
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_27.unity
+    guid: d1c5e709fc9519445a6ba62d5610eaf4
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_28.unity
+    guid: 12f1ada35b3a7e64ea5207d2db2850d0
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_29.unity
+    guid: 1e21ede61777e9247874345157dddaec
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_30.unity
+    guid: 3c04f8f2a2293674e8eaa7fb5a86ff93
+  - enabled: 1
+    path: Assets/Scenes/PlageTymoes_00.unity
+    guid: c9610578212d7c44ebbaaeb896419c32
+  - enabled: 1
+    path: Assets/Scenes/Scaffoldingue_00.unity
+    guid: f0f139f75082e484aa3a631e0f7a8209
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_04.unity
+    guid: 245d4d512ce997d43b29e927f29dd33d
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_07.unity
+    guid: ad406b3dfe6fece4caf5c343bcdccd03
+  - enabled: 1
+    path: Assets/Scenes/Prison_00.unity
+    guid: 263e2e6e7731f0e439c5646742bc63c0
+  - enabled: 1
+    path: Assets/Scenes/TerminalPalace_01/TerminalPalace_00.unity
+    guid: e2924f3dd2b5eb8439ddd13aafbfe944
+  - enabled: 1
+    path: Assets/Scenes/TerminalPalace_01/TerminalPalace_02.unity
+    guid: 2c69dcf797c8c494bbcfe1023106c7b2
+  - enabled: 1
+    path: Assets/Scenes/Toilets_00.unity
+    guid: 8e243c7ea23e04e418126aa7b08c1bd3
+  - enabled: 1
+    path: Assets/Scenes/WestVillage_04.unity
+    guid: 71abbf25e68b6514988fa8153ebaf4ca
+  - enabled: 1
+    path: Assets/Scenes/Backrooms/Backrooms_00.unity
+    guid: 9683d464727d1b447812dc0686d9ec12
+  - enabled: 1
+    path: Assets/Scenes/Backrooms/Backrooms_01.unity
+    guid: abbaab097ccaaa04cb49ebbbf1a35f99
+  - enabled: 1
+    path: Assets/Scenes/Backrooms/Backrooms_02.unity
+    guid: 44beec43fc789b64ab7e6a3390b12a31
+  - enabled: 1
+    path: Assets/Scenes/Fortinayt_02.unity
+    guid: 601e047f913a56345aff7c06d720e39b
+  - enabled: 1
+    path: Assets/Scenes/Hinterland/Hinterland_00.unity
+    guid: db7a9e561f08a934c9d52a7f4db14362
+  - enabled: 1
+    path: Assets/Scenes/Hinterland/Hinterland_01.unity
+    guid: 3820ab9042237dc47be5ed3343123a1b
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_00.unity
+    guid: 5e21cc3d2efafd44d8d11a2f35e064c3
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_01.unity
+    guid: cf36a967c7c32ae409af54261086fc2b
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_02.unity
+    guid: 3335e276f6a0f154f8260846f612f60e
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_03.unity
+    guid: 3ca7a1431e9dd7d4aad044c68efcb44d
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_04_0.unity
+    guid: 98ae54c913f3d8e41b049a2843875d39
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_04_1.unity
+    guid: b327f385be0b5f140b74363a0e95fba4
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_05_0.unity
+    guid: 8fb7b41b7aa6e664abcca4186bbcc4e6
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_05_1.unity
+    guid: b9911392b00236b4e847f26875e3b650
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_06.unity
+    guid: 8aeb8ca456c06c343b1ef23c0367ad93
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_07.unity
+    guid: 6036551375fa2894e8482f305413243f
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_08.unity
+    guid: ba7f72e612355a44db3688277f6f7416
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_09.unity
+    guid: 03698b6b6e6fc0342ba99d10c5420c82
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_10.unity
+    guid: 587f3c7b9fa39f845ab2ae4bb354b711
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_11.unity
+    guid: 9d5ed5c61ca6ce24898313e0a841c268
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_12.unity
+    guid: e44df4caad6491b4c962af9f261c919e
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_14.unity
+    guid: 86511954b07a432418476f348ddbcb6b
+  - enabled: 1
+    path: Assets/Scenes/HK/HK_02.unity
+    guid: f2c00ea6986661247a1fdb283b628d76
+  - enabled: 1
+    path: Assets/Scenes/HK/HK_03.unity
+    guid: 2a92bac53f97a0f41a746c0331960aad
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_01.unity
+    guid: 5ef2e14019ca7c541a0c2a11d944da67
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_02.unity
+    guid: 9dbc44c66968c834d9c2c02867f2427e
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_03.unity
+    guid: d761845118e138f44ae71935b6eafa5a
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_04.unity
+    guid: 9b42ff83402b8174d8263d6cfe8786d6
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_05.unity
+    guid: 47ca13626f0a71848a0d8deb1dbfff42
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_06_NoGrass.unity
+    guid: 1c4b33d0bbcf7cf4799becb1557bcd25
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_07_NoGrass_01.unity
+    guid: dae6a969935ffcb4b8fab65196658ba5
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_09.unity
+    guid: 76468fb595ed3e1409fc17bb4b4820dc
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_10.unity
+    guid: 4f8e5ba5231f18441bb3510f2ba82d87
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_11.unity
+    guid: 5200863b0437d844cafa8e3f3391a19f
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_12.unity
+    guid: 9115fa4fd19433047a71f68f186be2f5
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_13.unity
+    guid: 8f3ee79e696dcb74e964dc12cdce1eb8
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_00.unity
+    guid: f93f66fc5c0ccdc46aea91daec1b937c
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_01.unity
+    guid: c8c3f7aba22262a4388ade714aad4b28
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_02.unity
+    guid: bc28349485c375a438ee49a156baf969
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_03.unity
+    guid: bc32b5094c348f74887542200bcec619
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_04.unity
+    guid: dae6ce9e21a5ce441bb595fca2052bc0
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_05.unity
+    guid: b46fe9b1ecf8bf04fb96f23adae4c1ef
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_06.unity
+    guid: b2d75daa4518c4044841dc6273cf92fc
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_07.unity
+    guid: 45b2a7f5a9b1398448a1ef66b16a6679
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_08.unity
+    guid: 97bcac3b9b57cad458b210e0403a7504
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_00.unity
+    guid: fba987b36445551449fed52d8804ef86
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_01.unity
+    guid: 35004d58db7c071458fe3a7f669185b0
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_02.unity
+    guid: a15c88729c527b54ab41373f94c84187
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_03.unity
+    guid: 450fd3680f4ed8946b32f699657426b7
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_04.unity
+    guid: c0141570fe18df240a4b396a2f34f4bc
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_05.unity
+    guid: 2a991c9cd57627e4eb3effdbfe694a99
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_07.unity
+    guid: 583590311b78c874b96661dfc7b92183
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_08.unity
+    guid: 0ca622c3868db7745a3f3ba9ae2e2a45
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_08_Alt.unity
+    guid: ff1a6178ef4214140ba929bf6683d174
+  - enabled: 1
+    path: Assets/Scenes/Impasse01.unity
+    guid: 7dee5c88729428a4c90d2f693c1ccb1f
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_01.unity
+    guid: ebe9be86e8bcb3a4a8db452a91f6c66d
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_02.unity
+    guid: 6069ab16daeb1a74088508bf31d577b7
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_03.unity
+    guid: b847f76eb8f3a9342a46a8330d84411d
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_04.unity
+    guid: 5e582bdf355c1a84bab0fa124d6dc335
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_05.unity
+    guid: a1da44223668cb94a882020d789554b5
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_06.unity
+    guid: f6b44e12da2a84947ad81988ddd5f601
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_00.unity
+    guid: a823cebc661ae1c49931c50339465b1d
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_01.unity
+    guid: 51cf0ab3bc2cc4844a41299b1c65b942
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_02.unity
+    guid: a887013b9bfb9a545b3f4f2c6c9a6f4a
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_03.unity
+    guid: 5396f5fc41ef6a947bcd0b6dce3166ca
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_05.unity
+    guid: 9866ab95cd479fa49af4b5fee5666e16
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_08.unity
+    guid: 84ea058dccbfcb343972b46036c2c31f
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_00_Alt.unity
+    guid: 5d9c304899d207140928bbd154780a8d
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_01_Alt.unity
+    guid: 6b1ce72e1f0744e45bd2aeefef2e8b11
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_02_Alt.unity
+    guid: d1b631bd0c9c38f43b70ff769594649c
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_03_Alt.unity
+    guid: 6f17d1f574f05dd4ba32505032711c75
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_04_Alt.unity
+    guid: 29b6969168fc4dc43b1a85057c9c5585
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_05_Alt.unity
+    guid: 1aaaa2ae821d4cb44b90a71d3915750b
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_06_Alt.unity
+    guid: 50af33a77de6b2749a62118e21de8708
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_07_Alt.unity
+    guid: cab79e72ef752464aaf5c617f85fa060
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_09_Alt.unity
+    guid: de12ca36ec850984ab74c9bcf5a2dee0
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_10_Alt.unity
+    guid: 598dd25864f4c9d47adc839466006eb6
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_11_Alt.unity
+    guid: 4877725f1f2bc1442b9bd19c8dd9fd6c
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_12_Alt.unity
+    guid: 1e5d0896c9bd28649ba7c3210e07185c
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_13_Alt.unity
+    guid: 61fdaf74f925a684bbeb54b0f6e0947f
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_16_Alt.unity
+    guid: 264c23deea3c31e4aba36ea775c4f472
+  - enabled: 1
+    path: Assets/Scenes/HK/HK_03_Alt.unity
+    guid: 45d09ac771874184d8a509047f2bdcb9
+  - enabled: 1
+    path: Assets/Scenes/HK/HK_02_Alt.unity
+    guid: 9c1991f79c997204185d71c0829f77a9
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_06_Alt.unity
+    guid: 11d99d0d6dad73d43ab3d7b4bd602ec2
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_13_Alt.unity
+    guid: 20efdc5937b267840aa81504d2914dbc
+  - enabled: 1
+    path: Assets/Scenes/IceMaps/ICE_01_Alt.unity
+    guid: 2a7f7719130303c4e8e351fb90b681d0
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_25_Alt.unity
+    guid: d18a6f92277d3a040800883cf255931b
+  - enabled: 1
+    path: Assets/Scenes/WestVillage_04_Alt.unity
+    guid: ad44118cac2fe4f4e91eca446eef9c3d
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_04_Alt.unity
+    guid: f5b82c58d54390a4587d7b490d1c84d0
+  - enabled: 1
+    path: Assets/Scenes/Hinterland/Hinterland_00_Alt.unity
+    guid: 8bd46a5c53f5933419358f89a86622ae
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_05_1_Alt.unity
+    guid: 8f7d9504744793841b0caf31afad02bd
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_00_alt.unity
+    guid: 1e52f6b61c8f5da4c89fbcbbb7534970
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_02_alt.unity
+    guid: 59bf2f2613ee12d4f8491df9e5f4f095
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_07_alt.unity
+    guid: 5aa8da6b4e128034790390e583c7156b
+  - enabled: 1
+    path: Assets/Scenes/LDFest/Arena_14_Alt.unity
+    guid: 5e21bb49f60a39946bb762a8af00f3a5
+  - enabled: 1
+    path: Assets/Scenes/Fortinayt_02_Alt.unity
+    guid: e9fc255f75d0b604f9e0062dc4f57dc1
+  - enabled: 1
+    path: Assets/Scenes/Toilets_00_Alt.unity
+    guid: 943ce55707f83824bbdc7bd3b636fbc1
+  - enabled: 1
+    path: Assets/Scenes/LDFest_Shadow/Arena_Shadow_05_Alt.unity
+    guid: 8ec33477620c4c447905343c87249b14
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_11_Alt.unity
+    guid: 37b1be5d11c29574c9bb901516973e27
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_00_Alt.unity
+    guid: 4ee32c0dce675934e8deaf8e562e4aad
+  - enabled: 1
+    path: Assets/Scenes/LDFest2000/Arena_27_Alt.unity
+    guid: 939df3c3550fcfb429e284dcd6287ba8
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_12_Alt.unity
+    guid: fde28a543b7df3944b1ea14c5ea105d3
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_03_Alt.unity
+    guid: 9bf6bc1f56f62574ebc3b9f2dea62837
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_07_Alt.unity
+    guid: 6f0bd63fc02192846b54145acccbde72
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_14_Alt.unity
+    guid: 0cbb36f070761244b9a789462dffd21d
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_00_Alt.unity
+    guid: c74d83b43cc8c19478f4dafc378e2acc
+  - enabled: 1
+    path: Assets/Scenes/Hinterland/Hinterland_01_Alt.unity
+    guid: 1183df343f411e74c8b22c1fceea2d10
+  - enabled: 1
+    path: Assets/Scenes/Republic/Republic_07_Alt.unity
+    guid: ac708ef078f06c0419cde1d22344de9f
+  - enabled: 1
+    path: Assets/Scenes/Neo_LD/Neo_Arena_10_Alt.unity
+    guid: 47be21229f0ebed4ba42c20a0d5ffadb
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_04_Alt.unity
+    guid: aaaaa5200bff6dd4787474ed54a1eda4
+  - enabled: 1
+    path: Assets/Scenes/Chateaux/Chateaux_13_Alt_Alt.unity
+    guid: c7c221295e234e84ca531677b7ef9dd8
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_00.unity
+    guid: 405caeb7239d3974dbea384c505c3157
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_01.unity
+    guid: 9dcbb488512bac34eae1584348955c77
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_02.unity
+    guid: 0574c7a98bfb28b44be3153fdfd3b5e8
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_03.unity
+    guid: 28cc78f00ef49be4784396f41c8ed4ab
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_04.unity
+    guid: 40a4672a668c32a43b7fe07c90a289e1
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_05.unity
+    guid: 0582cd87079dae649a77b83e58133425
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_06.unity
+    guid: 41feb0b772c40ab43b0bc162d26a4fed
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_07.unity
+    guid: ef755e816e2095b47919d2d9e21df9d2
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_08.unity
+    guid: f67356cc01dd61c438931de8d5ac89e6
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_09.unity
+    guid: f02e12616e447f44f9247647c1567b5f
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_10.unity
+    guid: 4f8a3814695e55b40b7c32ae5129a1ea
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_11.unity
+    guid: 5713c5d5d9e64c14e97b1070e2b2e27f
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_12.unity
+    guid: 9a749d28e2222084583839f07be09a88
+  - enabled: 1
+    path: Assets/Scenes/Stroke/Stroke_01.unity
+    guid: a8c7f9c7420a04a4ea3508c1469466f5
+  - enabled: 1
+    path: Assets/Scenes/Stroke/Stroke_03.unity
+    guid: 0b6cd9f8ff1f1594e882182d3c8d2ab0
+  - enabled: 1
+    path: Assets/Scenes/Patio_00/Patio_00.unity
+    guid: 862e6106557ad6a46ab3b8df1b931a84
+  - enabled: 1
+    path: Assets/Scenes/Patio_00/HighWall_00.unity
+    guid: 056f0f9f28514334bae52c1fd2ceca99
+  - enabled: 1
+    path: Assets/Scenes/LostCity/LostCity_00.unity
+    guid: 36e69b5f96ead494ca98b11ea2b63511
+  - enabled: 1
+    path: Assets/Scenes/LostCity/LostCity_00_Alt.unity
+    guid: 353b7eb6df408ed4d94e498e81fc90fe
+  - enabled: 1
+    path: Assets/Scenes/Patio_00/Adread_00.unity
+    guid: 288ded62a2e45be458746eba6d191a0c
+  - enabled: 1
+    path: Assets/Scenes/ReeperBahn/ReeperBahn_00.unity
+    guid: 4e12f87b0d4ffca459aa7586ee3ed9b2
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_13.unity
+    guid: 0f8b36b0379180b40928b77068f36db2
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_14.unity
+    guid: 099d0011c898b384f887cda8624a7342
+  - enabled: 1
+    path: Assets/Scenes/Canliferous/Canliferous_map.unity
+    guid: 7e4023dcbd5b7e84bbb2e16d520c35ab
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_00.unity
+    guid: 4443c620f74eedd428596f31efd05204
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_00_Alt.unity
+    guid: 7606080c4c6c8bf4e81340f6ed58d4f3
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_01.unity
+    guid: ef866d524f340e941af139fa5b727f63
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_02.unity
+    guid: de6f95345d49acb419d6790f9b7432fc
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_03.unity
+    guid: e0524bf57cc769b4e89cb782bf32f1c2
+  - enabled: 1
+    path: Assets/Scenes/ReeperBahn/ReeperBahn_01.unity
+    guid: f6b55be022784e04ca089d6b0e6610e8
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_04.unity
+    guid: cb5f96dd8477c1146935eaafe6826b4f
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 3cacf966b5b915a4b8d98f60165d889c
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Appartment_00.unity
+    guid: 3359edd0a12e9e74a82aef8f1c4d9b66
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Aquatic_00.unity
+    guid: 5da0a2c6d8406784c8ac5101a253835d
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Drain_00.unity
+    guid: d8ef570db2ff4bb40ba3ff1c3fd4d918
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Drain_01.unity
+    guid: e7e8f60a2d5c68347812ae6ad48ebaea
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_00.unity
+    guid: a30afe25c790781459ab61b1f4f26b23
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_01.unity
+    guid: 4e90399bf9036e5449d0ca61618a7e40
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_01_Alt.unity
+    guid: 6eebe6fade2bfda41bf5f76ad55b0d0b
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_02.unity
+    guid: 6c81f3bab317da1478336778190a1999
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_03.unity
+    guid: 1c77e4d0dbef71341aaea2f593e07619
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_02_Alt.unity
+    guid: 72be4800dc5c4d14ba9c30a7629617c4
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_03_Alt.unity
+    guid: f435d9847110e364098ea584857dcebb
+  - enabled: 1
+    path: Assets/Scenes/StLucia/StLucia_04_Alt.unity
+    guid: 483316aab073a9f4a9dfb0a66a930d0d
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_BarrelBattle/Dragonfly_BarrelBattle.unity
+    guid: 7017d18e8b1181c42a8613922612008f
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_BarrelBattle_Alt/Dragonfly_BarrelBattle_Alt.unity
+    guid: 0a8612bde64c28e4995767c61bbf5761
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Cliffs/Dragonfly_Cliffs.unity
+    guid: c5316f26cc85a6a439fe257e82cb94bf
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Cliffs_Alt/Dragonfly_Cliffs_Alt.unity
+    guid: d42b8d169a80096448ef71fd6c1bf0a4
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Crusher/Dragonfly_Crusher.unity
+    guid: f4cabc474b1325446a37cd1611ecae10
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Pit/Dragonfly_Pit.unity
+    guid: 6c192ca77e7649341a0c50cbfb91f4f4
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Pit_Alt/Dragonfly_Pit_Alt.unity
+    guid: 56a79324a8539ab4f993e83dbb9413e9
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Sewer/Dragonfly_Sewer.unity
+    guid: 7ba21dc9318a6b44cb1f4c0520af3d68
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Sewer_Alt/Dragonfly_Sewer_Alt.unity
+    guid: 0e728c9cdd0fd92419d7038009f2651f
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Space/Dragonfly_Space.unity
+    guid: ea6e0eff2f2b71640964da8fcce5a7e4
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Space_Alt/Dragonfly_Space_Alt.unity
+    guid: 8c65a5a551493b7458c6bd4a0f68c70c
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Tunnel/Dragonfly_Tunnel.unity
+    guid: 1a86b86d00975ae4f95432a3dc7694c9
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Tunnel_Alt/Dragonfly_Tunnel_Alt.unity
+    guid: 81b048b12197649409c930988c6d1b51
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Shrine/Dragonfly_Shrine.unity
+    guid: e0590d38b579c5045bd429ccfcff6515
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Shrine_Alt/Dragonfly_Shrine_Alt.unity
+    guid: 8c9b567311f8b0a49b91c66ccb5fb87d
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_04.unity
+    guid: 0bf5ff02db1fcfe40b9463a43250c6b6
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Garden_04_Alt.unity
+    guid: 2103485598b261a44bad8ec6daceb23e
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Aquatic_01.unity
+    guid: 4956f056a5d7a5d449f92965ee6e5199
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_00.unity
+    guid: e828f817d5bd03e41871b4e51bfabf0d
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_00_Alt.unity
+    guid: 6415a7f56bd7b474b92468d326029a34
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_01.unity
+    guid: 5645c3cea0bea5b4abf207e95d8a15a3
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_01_Alt.unity
+    guid: 9a95f94deb3e0c14688fa06fb97724f4
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_02.unity
+    guid: c41887e8b4a52034c864ce6c6f5e9863
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket_02_Alt.unity
+    guid: c83b5a8303c06f343b9725957d89d66d
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_00.unity
+    guid: 407f680f4b03abd4ebeafecd5b762aa2
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_00_Alt.unity
+    guid: 152f789b7bd7df74bab6c293da4c7f28
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_01.unity
+    guid: 5385a43589ca74e4e9a6f7bab6a53159
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_01_Alt.unity
+    guid: 0db88a6fd0d655f4796a8605cc3e17b0
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_02.unity
+    guid: ca8d1747808443946a617d399173d2d9
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Adobe_02_Alt.unity
+    guid: 6580eae0d3b86aa46b576a9b1e1979de
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_00.unity
+    guid: 0532a07688879b340a18177fd33305b5
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_10.unity
+    guid: a0548ef4ade928647b1e474199038fe5
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_11.unity
+    guid: e8945ac2df05821498112115cd2d1381
+  - enabled: 1
+    path: Assets/Scenes/HK/HK_04.unity
+    guid: e190a5bf5554cbd48849d66dc919df1b
+  - enabled: 1
+    path: Assets/Scenes/Autobahn/Autobahn_00.unity
+    guid: 4da090c996fa3754298cf73bf7e75464
+  - enabled: 1
+    path: Assets/Scenes/PigFarm/PigFarm_00.unity
+    guid: 5b80b5dbb72f7eb4a93cf4f017e3d539
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Neighbourhood/Dragonfly_Neighbourhood.unity
+    guid: f097c31deedb5b046b8836b42ece34f5
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Neighbourhood_Alt/Dragonfly_Neighbourhood_Alt.unity
+    guid: adffd3a3a18fe4d4989a3c99e78a6cb8
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Crusher_Alt/Dragonfly_Crusher_Alt.unity
+    guid: 08e09787ba996ec4bae596bb5cc3d113
+  - enabled: 1
+    path: Assets/Scenes/Alzuroth/Cage_Fight_00/Cage_Fight_00_Day.unity
+    guid: f23a30997b2a2d84db850f6823411eee
+  - enabled: 1
+    path: Assets/Scenes/Alzuroth/Cage_Fight_00/Cage_Fight_00_Night.unity
+    guid: 1cc640aa94cd0a344b972e809bf6777a
+  - enabled: 1
+    path: Assets/Scenes/Alzuroth/Cage_Fight_00/Cage_Fight_00_Sunset.unity
+    guid: a8655256c63fb9d47a9c62c247dca316
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_00.unity
+    guid: d8e9d74cc3459824387fec3e630d5dce
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_00_Alt.unity
+    guid: afc8337efe575b64ebfca162c4cc1e5e
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_01.unity
+    guid: caa05832424f4014887ec2fb922cbd44
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_01_Alt.unity
+    guid: 6a5371794cef9d24780e7e3e31098cec
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_02.unity
+    guid: 6ef48d149094ee8469977f0cae798bea
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Stadium_02_Alt.unity
+    guid: e9f5547e16fcbca458a1c70a3b10b7e0
+  - enabled: 1
+    path: Assets/Scenes/LostCity/LostCity_01.unity
+    guid: db509d61974d78b40bb33a246b0f882d
+  - enabled: 1
+    path: Assets/Scenes/Canliferous/Canliferous_fluorspar.unity
+    guid: a1eb3e160d9c9ce45a7e5aa536fca608
+  - enabled: 1
+    path: Assets/Scenes/Canliferous/Canliferous_fluorspar_Alt.unity
+    guid: a3e6d63368557e9428de6ed3de462c28
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_00.unity
+    guid: 904fae09361eeae44861f7eb9921d23e
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_01.unity
+    guid: 9262829b8cfde6546844c75a1333231a
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_02.unity
+    guid: 8c95c26f65c4b9444acc383adc55014a
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/Gobi/Gobi_00.unity
+    guid: be8d5ee6f3b171542aa60deefaedd2d0
+  - enabled: 1
+    path: Assets/Scenes/Beton/Corridor_12.unity
+    guid: 7549a40bbc12e154ca7d71c65f8d6251
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_00.unity
+    guid: dea6d6db729c51f4a9ae3106aa35cc2f
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_00_Alt.unity
+    guid: c3ef0f1967907ab4e883487466a7b8fc
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_01.unity
+    guid: 0c0a39ff17aeb2c4ea50fad611150331
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_01_Alt.unity
+    guid: 2dcf58ac666947548bc4ae66e5e4b911
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_02.unity
+    guid: ae0a7acfcee7b8d438b17a3790d4695e
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Barren_02_Alt.unity
+    guid: 7fc17e5cce5afb94c940bd8a8ed489fe
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_01.unity
+    guid: 86fc160c63331284996be9e9f00e37af
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_01_Alt.unity
+    guid: 6ed262c4bcf96ea48b6a5b486c1405a5
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Factory_00.unity
+    guid: cab0dd980f60fc54084a21cf06ae2de5
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Factory_01.unity
+    guid: 336fe99d7b17bc94b8d9c5e195ee1e14
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Streets/Dragonfly_Streets.unity
+    guid: f9dedb167275fc547896977ab1301adb
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Streets_Alt/Dragonfly_Streets_Alt.unity
+    guid: ad94c846f532faa4cacbbfd5a8fc8618
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Pillars/Dragonfly_Pillars.unity
+    guid: 7ff5dc4ef7ed2f64386be03378657904
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Pillars_Alt/Dragonfly_Pillars_Alt.unity
+    guid: dbdee6b82cab8834a9b9a77ac9595c56
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Vestige/Dragonfly_Vestige.unity
+    guid: 5cb9e9b6777e1234baf8b6262978f91a
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Vestige_Alt/Dragonfly_Vestige_Alt.unity
+    guid: c38c2ea26d2d0724a9d443feff759ea3
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Stairway/Dragonfly_Stairway.unity
+    guid: 0ba45766d4d439b4fafaf7d945c30fd5
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Stairway_Alt/Dragonfly_Stairway_Alt.unity
+    guid: 36ac9775fadd8b548b420422810a9609
+  - enabled: 1
+    path: Assets/Scenes/Gutenberg/Gutenberg_00.unity
+    guid: 3b554e77069ab4e40a14c6b3f91ee018
+  - enabled: 1
+    path: Assets/Scenes/Gutenberg/Gutenberg_01.unity
+    guid: 0ffcf588efa3e7346938198ffb7844ca
+  - enabled: 1
+    path: Assets/Scenes/Gutenberg/Gutenberg_01_Alt.unity
+    guid: 8e4a6249703030c4089e17c1bf22c865
+  - enabled: 1
+    path: Assets/Scenes/TheSamePlace/TheSamePlace_04_Alt.unity
+    guid: d79687ba00364004e835f8db0e3dc11b
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_ADifferentPlace_01/Dragonfly_ADifferentPlace_01.unity
+    guid: 853c4a6835cd0fd4595ec7961c5ca2af
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_ADifferentPlace_02/Dragonfly_ADifferentPlace_02.unity
+    guid: 0a3a42cbe3b672a4fadfaade1c1a1b97
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Fracture_Alt/Dragonfly_Fracture_Alt.unity
+    guid: 89d2cc87a66e0bd469c08650dd86e0ac
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Fracture/Dragonfly_Fracture.unity
+    guid: ab260376945b41640a989a8cef80c3d7
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_ADifferentPlace_01_Alt/Dragonfly_ADifferentPlace_01_Alt.unity
+    guid: e2b6e789f82f9364d984053024d272f8
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_ADifferentPlace_02_Alt/Dragonfly_ADifferentPlace_02_Alt.unity
+    guid: aaee678cadaa3384199b266262b98388
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Bowl/Dragonfly_Bowl.unity
+    guid: 7eccada849dba83458a53b5ed606b9dc
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Bowl_Alt/Dragonfly_Bowl_Alt.unity
+    guid: 968ddcaa3de2fe246a03c6032a6f9b7d
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Earthscraper/Dragonfly_Earthscraper.unity
+    guid: f58f897b43055294891f7ff0aabfc701
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Earthscraper_Alt/Dragonfly_Earthscraper_Alt.unity
+    guid: 40d6314d49909804db63a3097e726421
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Basalt/Dragonfly_Basalt.unity
+    guid: abec96291e44c4840905a77f868eed21
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Basalt_Alt/Dragonfly_Basalt_Alt.unity
+    guid: e287b21d5ea478d4aa5b05cc3c72c76d
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Abduction/Dragonfly_Abduction.unity
+    guid: bb6e922d108e4914a942f90983029ceb
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Abduction_Alt/Dragonfly_Abduction_Alt.unity
+    guid: 09c6d75e81f2ef744b165c39f112f73a
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Waterway/Dragonfly_Waterway.unity
+    guid: 866165c469ff0d74ea23fe224ee8b712
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Waterway_Alt/Dragonfly_Waterway_Alt.unity
+    guid: ed1c7d86ac255e64a8cd3b589e476d52
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_IceSlide_01/Dragonfly_IceSlide_01.unity
+    guid: 63885fb5ac6e1634681f03e4f0826ebc
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_IceSlide_02/Dragonfly_IceSlide_02.unity
+    guid: 659f9b14f0817304d94cee4ca7377629
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_RoadSide/Sonova_RoadSide.unity
+    guid: ec59f1bf5ece140488c178232dea3b1e
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Sewage/Sonova_Sewage.unity
+    guid: b3205deb8df3cbb48a0069662ab535a5
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Chimey/Sonova_Chimney.unity
+    guid: 5db96bdc4cb5f674c8a356bf105fd4cf
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_03.unity
+    guid: ad8e7f1051739594496b45cb1548dc8d
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_04.unity
+    guid: 67387ee481f53194da033f5faad7d8c1
+  - enabled: 1
+    path: Assets/Scenes/valhalla_00/valhalla_05.unity
+    guid: a81dd0f7591320047b9a473a6396f041
+  - enabled: 1
+    path: Assets/Scenes/Jambon-Beurre/Parking.unity
+    guid: b30d5e049f22d2e4eaee4e43f0d9f759
+  - enabled: 1
+    path: Assets/Scenes/Jambon-Beurre/Parking_alt.unity
+    guid: c95d2c8106f6ceb47860b97240e85148
+  - enabled: 1
+    path: Assets/Scenes/Jambon-Beurre/Parking_1_alt.unity
+    guid: 67022ee9929ff0a4d924592d66f22e39
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Depths/Dragonfly_Depths.unity
+    guid: 4b44f043d71bdd1488e16da71588cb48
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Depths_Alt/Dragonfly_Depths_Alt.unity
+    guid: d9d9fcca333e8f04ba1ceacc1c72ef64
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Lancer/Dragonfly_Lancer.unity
+    guid: f224946be2c2c504cac0c2764550da52
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Lancer_Alt/Dragonfly_Lancer_Alt.unity
+    guid: a6a9e036a0eef554e9dbfe5f1aea0b05
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Vestige_Underwater_Alt/Dragonfly_Vestige_Underwater_Alt.unity
+    guid: 75d3a90b7f06408488d2f34fff92ec5b
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Crusher_Underwater_Alt/Dragonfly_Crusher_Underwater_Alt.unity
+    guid: ff372964e82fa934b85d4c94f70331d0
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Shrine_Alt_Alt/Dragonfly_Shrine_Alt_Alt.unity
+    guid: 968329e5cb6800a4ba85dfc7e56f5149
+  - enabled: 1
+    path: Assets/JellyFishMap/JF_Space/Scenes/Jellyfish/JF_Space.unity
+    guid: fe4f9d1b3c48a6447a239869427c4643
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Helicopter/Dragonfly_Helicopter.unity
+    guid: fd51cf84d2371b14890273eb1a3a1f29
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Helicopter_Alt/Dragonfly_Helicopter_Alt.unity
+    guid: e9db8d584ccfa86459fe68aa093a3fc7
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Xanthate/Dragonfly_Xanthate.unity
+    guid: 36b8a36cb838a584bb71940e3f53adf0
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Xanthate_Alt/Dragonfly_Xanthate_Alt.unity
+    guid: 6e993431127b96c4ea5a16e115b1d91b
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Chimney_Alt0/Sonova_Chimney_Alt.unity
+    guid: c358c0292102b6144953c5143ea79a52
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Skatepark/Sonova_Skatepark.unity
+    guid: bb80ba841e693664cab627719c74444d
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_TheDome/Sonova_TheDome.unity
+    guid: 89d92aedc53fc5243bac1daeeca340a1
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Bankment/Sonova_Bankment.unity
+    guid: 5bfdb66bb143ccf489c4ce660db9982c
+  - enabled: 1
+    path: Assets/Scenes/Sonova/Sonova_Roadside_Alt01/Sonova_RoadSide_Alt.unity
+    guid: 84b389a1d5855a444986a1eb64e9424b
+  - enabled: 1
+    path: Assets/Scenes/Dragonfly/Dragonfly_Sewer_Alt_Alt/Dragonfly_Sewer_Alt_Alt.unity
+    guid: 04b5ca769b78f504d8d24f2f90276584
+  - enabled: 1
+    path: Assets/Scenes/Fortinayt_04.unity
+    guid: 5842df95e984797469e112455ffee1c8
+  - enabled: 1
+    path: Assets/JellyFishMap/JF_Poolrooms_01/Scenes/Jellyfish/JF_Poolrooms_01.unity
+    guid: b78da450c61c9164a9dbb1098cf0fdbd
+  - enabled: 1
+    path: Assets/JellyFishMap/JF_Statue/Scenes/Jellyfish/JF_Statue.unity
+    guid: 46b31071e3a9ed942aa5be0d224adc92
+  - enabled: 1
+    path: Assets/JellyFishMap/JF_Statue_Alt/Scenes/Jellyfish/JF_Statue_Alt.unity
+    guid: 2e3694a9bfebe9c46b06dfe1bba126a6
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Alleyway.unity
+    guid: d1454bc5c04e76b4b8ffb47e844b2da7
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Alleyway_Alt.unity
+    guid: 9d1dc8dbd022b1f498f86fe79e56f8f0
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_02.unity
+    guid: 4981c588be7a629409b88f74da3db90b
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_02_Alt.unity
+    guid: 30a7733cfdb76e744a1e33b306fc87da
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_03.unity
+    guid: eb8fcfee2ba026e4d9821a9986f83452
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar_03_Alt.unity
+    guid: ee3250efd9fdc8844a765028d8163fc5
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Apt.unity
+    guid: 370162a154be7b744b7b350cb2644608
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Apt_Alt.unity
+    guid: 105e67c4895c2f24da18ed4451078ceb
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Balcony.unity
+    guid: 65dc3f619e30cad4c83e38f88f675251
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Balcony_Alt.unity
+    guid: ade771b205660fc4c874a36b3f9bb50f
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Canal.unity
+    guid: 2ac13d5c790a678428c9c14644da5272
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Canal_Alt.unity
+    guid: 56b3e5bb169f94e41b8d7c6d206a8e02
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Charshi.unity
+    guid: d81b8caac057dc34f8f4c075a826b182
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Charshi_Alt.unity
+    guid: 2b1ba741f319ca445987f88b3589336a
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Chati.unity
+    guid: 6cf4391773ffb0e4e9b4bd158052a254
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Chati_Alt.unity
+    guid: 4c55926d64ad7c840918583983c9a7b4
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Hideout.unity
+    guid: 42f6d00c4b22e21458e9de0d4d878b28
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Hideout_Alt.unity
+    guid: cc6c6032524740543ad161ce2ace01ea
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Marketplace.unity
+    guid: 70956c48c4d5a784a839b1acdf2334a2
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Marketplace_Alt.unity
+    guid: 351095051b9513d4eb991d7a39ace379
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Overhang.unity
+    guid: 7266aabe149203c4cbda9d1561216973
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Overhang_Alt.unity
+    guid: 2f572a710401d7641b63d78229a93bf6
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Refuge.unity
+    guid: 10f1fee64e51f6e418b1198fb9dc6565
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Bazaar/Bazaar_Refuge_Alt.unity
+    guid: f655fc78712056b4d986177978e14310
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Borular.unity
+    guid: 3e6cda0ed46e6964d8d8657b08ff9163
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Borular_Alt.unity
+    guid: 15543c3bc9c49e04995d5586da73dfb6
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Chahar.unity
+    guid: 2cf797f993838ac4195edd9dd9705004
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Chahar_Alt.unity
+    guid: 5a44711744dcdcd498c578a3b8aa9fd9
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Crosshair.unity
+    guid: 880d5ad5754272b4583791e9f1c0470f
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Crosshair_Alt.unity
+    guid: 6ce4fc3a7e9950c4e9f0f95f9263b087
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Dochehar.unity
+    guid: 4ddb1ecdf232bf54f882fe7ff7f9cb56
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Dochehar_Alt.unity
+    guid: e4b4ba8c2ff04ec458a3f616224aa11d
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Duvar.unity
+    guid: 7a67fa88fca59c648bd349760337966a
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Junglegym.unity
+    guid: 2351579506c48a14d87d71ccce2da95b
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Junglegym_Alt.unity
+    guid: 867955c4a3a24f746b0b42f7ce8fe6db
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Shesh.unity
+    guid: 0124823d216d43f47b94e2b28ad2cc24
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Shesh_Alt.unity
+    guid: 936aef23ff867b84ba1224bdaa20702a
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Swirly.unity
+    guid: eb8337d5a1282dd439428062bc84cedd
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Swirly_Alt.unity
+    guid: 571d8affa262ce449a745be494ec6232
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Yek.unity
+    guid: 2e13ec99fa8982041b5611cbee42a37f
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Basket/Basket_Yek_Alt.unity
+    guid: 437dde8cd0bf6be4794d55a2e381790c
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Bereket.unity
+    guid: f3fb5741eb5a38547adc1915f4a65605
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Bereket_Alt.unity
+    guid: df39e2054fcf00c48915fa084523030c
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Burdock.unity
+    guid: 6d2687ec22a0fb44e941844488a7b3f1
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Burdock_Alt.unity
+    guid: ac5c47e2a2ca9e049a94f3c9d29e979c
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Ikiz.unity
+    guid: 74852171d560c014385047b3a04149f2
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Ikiz_Alt.unity
+    guid: abffe12126081574f834f7ed7513b729
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Jrambar.unity
+    guid: 891514716c9bf0d46b6cddfc7a1fc665
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Jrambar_Alt.unity
+    guid: 2897faa236aebd949b3159d40f7b62d5
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Orion.unity
+    guid: 7c356e2a1a5c84c4ba1ae5ba626bfa66
+  - enabled: 1
+    path: Assets/Scenes/Ozan-Zone/Hushardzan/Hushardzan_Orion_Alt.unity
+    guid: f9ec6e1631578394a9caabdeab3b8d98
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 7bcd277338285474d9a648102b2d7510, type: 2}

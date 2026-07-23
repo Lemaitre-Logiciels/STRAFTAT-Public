@@ -1,0 +1,39 @@
+# MTL for Dragonfly_00.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3925
+
+newmtl ASHWALL3
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\ASHWALL3.png
+
+newmtl BRONZE1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\BRONZE1.png
+
+newmtl FIRELAV2
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\FIRELAV2.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\METAL.png
+
+newmtl STONE4
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\STONE4.png
+
+newmtl FIRELAV2
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\FIRELAV2_FLAT.png
+
+newmtl FWATER1
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\FWATER1.png
+
+newmtl METAL
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\METAL_FLAT.png
+
+newmtl STONE4
+Kd 1.0 1.0 1.0
+map_Kd F:\Straftat Assets\DoomMapFormat\Dragonfly_00\STONE4_FLAT.png
+

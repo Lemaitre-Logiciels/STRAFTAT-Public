@@ -1,0 +1,19 @@
+# MTL for Dragonfly_02.wad, map MAP01
+# Created by Ultimate Doom Builder 3.0.0.3925
+
+newmtl ASHWALL2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_02\ASHWALL2.png
+
+newmtl BLOOD1
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_02\BLOOD1.png
+
+newmtl ASHWALL2
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_02\ASHWALL2_FLAT.png
+
+newmtl BLOOD1
+Kd 1.0 1.0 1.0
+map_Kd F:\Github\STRAFTAT-Dragonfly\STRAFTAT\Straftat_git_Artsource\Environment\Levels\Dragonfly\Dragonfly_02\BLOOD1_FLAT.png
+
