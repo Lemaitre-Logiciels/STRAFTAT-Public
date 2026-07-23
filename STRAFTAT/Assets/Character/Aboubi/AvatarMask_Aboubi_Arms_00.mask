@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvatarMask_Aboubi_Arms_00
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: SK_Aboubi00_Arm_Left00
+    m_Weight: 0
+  - m_Path: SK_Aboubi00_Arm_Right00
+    m_Weight: 0
+  - m_Path: SK_Aboubi00_Hand_Left00
+    m_Weight: 0
+  - m_Path: SK_Aboubi00_Hand_Right00
+    m_Weight: 0
+  - m_Path: SK_Aboubi00_Leg_Left00
+    m_Weight: 0
+  - m_Path: SK_Aboubi00_Leg_Right00
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.L/Shin.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.L/Shin.L/Foot.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.R/Shin.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Leg.R/Shin.R/Foot.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Neck
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Neck/Head
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Index_1.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Index_1.L/Index_2.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/MiddleFinger_1.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/MiddleFinger_1.L/MiddleFinger_2.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Pinkie_1.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Pinkie_1.L/Pinkie_2.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/RingFinger_1.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/RingFinger_1.L/RingFinger_2.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Thumb_1.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.L/Arm.L/ForeArm.L/Wrist.L/Thumb_1.L/Thumb_2.L
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Index_1.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Index_1.R/Index_2.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/MiddleFinger_1.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/MiddleFinger_1.R/MiddleFinger_2.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Pinkie_1.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Pinkie_1.R/Pinkie_2.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/RingFinger_1.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/RingFinger_1.R/RingFinger_2.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Thumb_1.R
+    m_Weight: 0
+  - m_Path: SK_Aboubi_00/Hips/Torso/Shoulder.R/Arm.R/ForeArm.R/Wrist.R/Thumb_1.R/Thumb_2.R
+    m_Weight: 0
+  - m_Path: SM_Aboubi00_Torso
+    m_Weight: 0
+  - m_Path: SM_Aboubi_Head00
+    m_Weight: 0
