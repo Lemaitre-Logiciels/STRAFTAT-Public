@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02197607bc954fa29e72179d59e43282, type: 3}
+  m_Name: SillyMaps
+  m_EditorClassIdentifier: 
+  Name: Silly Maps
+  Maps:
+  - Arena_16
+  - Autobahn_00
+  - Dragonfly_BarrelBattle
+  - Dragonfly_Crusher
+  - EndGame
+  - TheSamePlace_08
+  - TheSamePlace_10
+  - Arena_16_Alt
+  - Arena_Shadow_05_Alt
+  - Chateaux_13_Alt_Alt
+  - Dragonfly_ADifferentPlace_01_Alt
+  - Dragonfly_ADifferentPlace_01
+  - Arena_Shadow_06
+  - PigFarm_00
+  - Republic_04
+  - Republic_05
+  - Republic_03
+  - TerminalPalace_02
+  - ICE_06
+  - ICE_04
+  - ICE_03
+  - Republic_01
+  - Arena_Shadow_00
+  IsDlcExclusive: 0

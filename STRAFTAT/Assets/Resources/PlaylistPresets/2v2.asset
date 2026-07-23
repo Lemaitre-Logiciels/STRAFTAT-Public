@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02197607bc954fa29e72179d59e43282, type: 3}
+  m_Name: 2v2
+  m_EditorClassIdentifier: 
+  Name: Great 2v2 Maps
+  Maps:
+  - Adobe_00
+  - Aquatic_01
+  - Arena_10
+  - Arena_13
+  - Arena_29
+  - Basket_02
+  - Bazaar_00
+  - Canliferous_fluorspar
+  - Chateaux_01
+  - Chateaux_05
+  - Corridor_05
+  - Corridor_08
+  - Corridor_11
+  - Dragonfly_Fracture
+  - Dragonfly_Shrine
+  - Dragonfly_Stairway
+  - Dragonfly_Vestige
+  - Factory_00
+  - Factory_01
+  - HK_02
+  - HK_04
+  - Neo_Arena_00
+  - Neo_Arena_04_1
+  - Neo_Arena_07
+  - Prison_00
+  - ReeperBahn_00
+  - StLucia_02_Alt
+  - StLucia_03
+  - StLucia_04
+  - Stroke_03
+  - TerminalPalace_00
+  - TheSamePlace_01
+  - TheSamePlace_06
+  - TheSamePlace_13
+  - Toilets_00
+  - WestVillage_04
+  - Arena_06_Alt
+  - Bazaar_01_Alt
+  - Chateaux_06_NoGrass
+  - HK_03
+  - Republic_08
+  - Dragonfly_Pit_Alt
+  - Dragonfly_Sewer_Alt
+  - Dragonfly_Shrine_Alt
+  - Gutenberg_00
+  - Neo_Arena_11_Alt
+  - Neo_Arena_14_Alt
+  - WestVillage_04_Alt
+  - Dragonfly_Tunnel
+  - Garden_04
+  - Chateaux_10
+  - Dragonfly_Fracture_Alt
+  - Hinterland_00
+  - Neo_Arena_01
+  - Scaffoldingue_00
+  - Dragonfly_Sewer
+  - TheSamePlace_14
+  - StLucia_02
+  - Corridor_02
+  - Arena_06
+  IsDlcExclusive: 0

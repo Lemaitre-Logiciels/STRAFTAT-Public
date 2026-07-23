@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02197607bc954fa29e72179d59e43282, type: 3}
+  m_Name: MeleeMaps
+  m_EditorClassIdentifier: 
+  Name: Melee Maps
+  Maps:
+  - Adobe_00_Alt
+  - Adread_00
+  - Basket_00_Alt
+  - Dragonfly_Cliffs_Alt
+  - Dragonfly_Space_Alt
+  - Hinterland_01_Alt
+  - HK_04
+  - LostCity_00_Alt
+  - Republic_08
+  - StLucia_00_Alt
+  - StLucia_04
+  - Barren_02_Alt
+  - Dragonfly_Basalt_Alt
+  - Dragonfly_Bowl
+  IsDlcExclusive: 1
