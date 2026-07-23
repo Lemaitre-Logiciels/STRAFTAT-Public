@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: da1410a6e3261a44891df534b52f3227
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Noto Sans Devanagari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 292050f7e77c38d4bbb967698c45c096, type: 3}
+  - {fileID: 12800000, guid: 22f32321c61e89840bed3635bb3a070f, type: 3}
+  - {fileID: 12800000, guid: 7406fa75b10276049b58b1c16257b166, type: 3}
+  - {fileID: 12800000, guid: 495ce72791350db4caf6b7bbc0c26a5b, type: 3}
+  - {fileID: 12800000, guid: 42a7cf252b36a694281d742c8c2131b7, type: 3}
+  - {fileID: 12800000, guid: 5aded89c2599ad543b90d29d509ccdd5, type: 3}
+  - {fileID: 12800000, guid: a37f4094b02e27e4388b25dd88082385, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
